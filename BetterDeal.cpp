@@ -6,7 +6,7 @@ Chef is wondering which store is selling the product at a cheaper price after th
 
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std; 
 int main() {
         // your code goes here
         int t;
