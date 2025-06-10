@@ -6,7 +6,7 @@ int main() {
     cout << "ASCII value of " << ch << " is: " << int(ch) << endl;
     return 0;
 }
-
+  
 /* 02_Print_Upper_Lower_Case_ASCII.cpp */
 #include <iostream>
 using namespace std;
