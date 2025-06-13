@@ -7,7 +7,7 @@ The first line of input will contain a single integer T, denoting the number of 
 Each test case consists of a single line containing two space-separated integers X and N 
 — the number of aircraft the airline owns and the number of passengers travelling, respectively.
 
-Output Format
+Output Format 
 For each test case, output the minimum number of planes the airline needs to purchase.   */
 
 #include <iostream>
